@@ -18,7 +18,7 @@ Welcome to **Tic-Tac-Win**! A modern and visually stunning take on the classic T
 ## Screenshots 📸
 | O wins | Draw |
 |:---:|:---:|
-| ![Xwins Screenshot](./screenshots/Xwins.png) | ![Draw Screenshot](./screenshots/Draw.png)|
+| ![Xwins Screenshot](./screenshots/Owins.png) | ![Draw Screenshot](./screenshots/Draw.png)|
 
 
 
