@@ -2,6 +2,7 @@
 import { useState } from "react";
 
 export default function Board() {
+  
   const [grid, setGrid] = useState<(null | "X" | "O")[]>(Array(9).fill(null));
   const [player, setPlayer] = useState<"X" | "O">("X");
   const [winner, setWinner] = useState<string | null>(null);
