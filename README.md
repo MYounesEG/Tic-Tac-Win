@@ -45,12 +45,12 @@ To run this project locally, follow these steps:
 
 2. **Install Dependencies**:
    ```bash
-    npm install
+   npm install
    ```
 
 3. **Run the Development Server**:
     ```bash
-    npm run dev
+   npm run dev
     ```
 
 4. **Open in Browser**:
